@@ -1,3 +1,7 @@
-h1{
+h1.index{
     color: green;
+}
+h1.alumne{
+    color: red;
+    text-decoration: underline;
 }
